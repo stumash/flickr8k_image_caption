@@ -2,7 +2,7 @@
 
 Image-captioning model using the Flickr8k dataset (8000 images and captions).
 
-This repo contains a script to download and extract the data and a `jupyter notebook` to train and test the model.
+This repo contains a script to download and extract the data and a jupyter notebook to train and test the model.
 
 ### The `download_data.sh` file
 
