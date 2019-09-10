@@ -1,4 +1,4 @@
-# flickr8k
+# flickr8k_image_caption
 
 Image-captioning model using the Flickr8k dataset (8000 images and captions).
 
