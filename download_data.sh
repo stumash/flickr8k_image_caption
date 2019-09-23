@@ -22,3 +22,5 @@ for zipfile in *zip; do
     )
 
 done
+
+mkdir -p "${__DIR__}/outputs"
