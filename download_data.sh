@@ -20,5 +20,4 @@ for zipfile in *zip; do
         [ -d Flicker8k_Dataset ] && mv Flicker8k_Dataset/* . && rmdir Flicker8k_Dataset
         [ -d __MACOSX ] && rm -rf __MACOSX
     )
-
 done
