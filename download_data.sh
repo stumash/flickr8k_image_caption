@@ -21,3 +21,5 @@ for zipfile in *zip; do
         [ -d __MACOSX ] && rm -rf __MACOSX
     )
 done
+
+mkdir -p "${__DIR__}/outputs"
