@@ -44,4 +44,4 @@ Preprocesses input images into numpy arrays. Gives the following folder structur
 
 ### Special Thanks
 
-Thanks to [Jason Brownloee](https://github.com/jbrownlee) for making the dataset and some related code available as a github release [here](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k).
+Thanks to [Jason Brownlee](https://github.com/jbrownlee) for making the dataset and some related code available as a github release [here](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k).
